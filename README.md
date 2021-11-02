@@ -19,7 +19,7 @@
 ## Question 4:
 #### Is the poverty rate in PA consistent across all counties or is there variation? Provide a visualization to explain your answer.
     - There appears to be relatively consistent poverty rates with only one major outlier that also happens to be PA's most populated county. There is a low standard deviation of .03 which suggests that most of the data is clustered around the mean and relatively consistent.
-    ![poverty to pop](https://user-images.githubusercontent.com/78940231/139791715-148988d5-863e-4b0f-90bf-7f8238307eeb.png)
+![poverty to pop](https://user-images.githubusercontent.com/78940231/139791715-148988d5-863e-4b0f-90bf-7f8238307eeb.png)
 ![poverty rate by county](https://user-images.githubusercontent.com/78940231/139791746-b9953490-cf31-4562-acc1-a1df12df25ad.png)
 ![poverty rate box plot](https://user-images.githubusercontent.com/78940231/139791757-c828f31b-5ea3-42b5-b3ca-16ab32562047.png)
 
