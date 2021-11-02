@@ -25,7 +25,7 @@
 
 ## Question 5:
 #### Does there seem to be any relationship between a county’s poverty rate and the percent of population that is over 65?  Include a visualization in your response.
-    - I do not see a relationship between a county's population over 65 and their poverty rate.       Population over 65 had a weaker correlation (.0016) than that of total population and poverty rate (.0788)
+    - I do not see a relationship between a county's population over 65 and their poverty rate.       Population over 65 and poverty rate had a weaker correlation (.0016) than that of total population and poverty rate (.0788)
 ![pop over 65 poverty rate](https://user-images.githubusercontent.com/78940231/139792744-fa56d5b9-927c-466d-b45d-293cd8715332.png)
 ![total pop poverty rate](https://user-images.githubusercontent.com/78940231/139791876-af91e568-73f7-4748-8c2c-960888518a51.png)
 
