@@ -38,7 +38,7 @@
 ## Question 7:
 #### In looking at the county level data for poverty and for public assistance/food stamps, are there any counties where there might be a large ‘gap’, meaning that county has more people in poverty who have not enrolled in benefits, compared to other counties?  What assumptions do you need to make to answer this question?
 ### (NOTE: Generally people qualify for public assistance or food stamps at or below 185% of the poverty line. )
-    -Assuming everyone within the 'Poverty' column qualifies for assistance this is the results. County #42027 has the lowest usage rate by far of 16.5%. From there it is a gradual upslope to the highest usage rate of 60.9% from county #42073. It is clear that some counties are not maximizing the possible assistance that is available to them.
+    -Assuming everyone within the 'Poverty' column qualifies for assistance these are the findings. County #42027 has the lowest usage rate by far of 16.5%. From there it is a gradual upslope to the highest usage rate of 60.9% from county #42073. It is clear that some counties are not maximizing the possible assistance that is available to them.
 ![people in poverty vs assistance being used](https://user-images.githubusercontent.com/78940231/139792108-e2f8f9a2-e963-440d-a346-4106ae3e8872.png)
 ![20 lowest usage rates per county](https://user-images.githubusercontent.com/78940231/139792115-14450537-9f3b-4f19-97d8-444745191ed5.png)
 
