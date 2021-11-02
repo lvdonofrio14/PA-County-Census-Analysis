@@ -5,7 +5,7 @@
 ## Question 1:
 #### According to this data, what is the total population of PA?  What do you observe about how population is distributed across counties in PA?  
     - The total population of PA: 12,791,181.0
-    - There are three major counties that make up over 28% of the population and the majority of counties       are rather small
+    - There are three major counties that make up over 28% of the population while the majority of counties are rather small
 ![PA pop by county](https://user-images.githubusercontent.com/78940231/139791433-f47b3963-ae18-4646-a1c8-4186334a89fc.png)
 
 ## Question 2:
